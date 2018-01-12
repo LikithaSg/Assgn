@@ -1,0 +1,48 @@
+[{
+    "name" : "iPhone 7",
+    "model" : "abc",
+    "Cost" : "10000",
+    "capacity" : "128GB",
+    "modelNumber" : "W77E",
+    "screenSize" : "4.7inch",
+    "color" : "Black",
+    "brand" : "APPLE",
+    "processor" : "",
+    "imgSrc" : "../images/egg.jpeg"
+},
+{
+    "name" : "iPhone 6",
+    "model" : "abc",
+    "Cost" : "10000",
+    "capacity" : "32GB",
+    "modelNumber" : "W77E",
+    "screenSize" : "4.7inch",
+    "color" : "Black",
+    "brand" : "APPLE",
+    "processor" : "",
+    "imgSrc" : "../images/egg.jpeg"
+},
+{
+    "name" : "Nokia 6",
+    "model" : "abc",
+    "Cost" : "10000",
+    "capacity" : "4GB",
+    "modelNumber" : "W77E",
+    "screenSize" : "4.7inch",
+    "color" : "Black",
+    "brand" : "APPLE",
+    "processor" : "",
+    "imgSrc" : "../images/egg.jpeg"
+},
+{
+    "name" : "iPhone 7s plus",
+    "model" : "abc",
+    "Cost" : "10000",
+    "capacity" : "4GB",
+    "modelNumber" : "W77E",
+    "screenSize" : "4.7inch",
+    "color" : "Black",
+    "brand" : "APPLE",
+    "processor" : "",
+    "imgSrc" : "../images/egg.jpeg"
+}]
